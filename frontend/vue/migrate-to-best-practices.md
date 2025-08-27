@@ -1,3 +1,7 @@
+---
+description: "使用现代的 Vue 3 响应式组件开发模式"
+---
+
 ## 使用 Setup 语法
 
 你应该使用 Vue 3 的 Setup 语法来编写 Vue 组件，即 `<script setup lang="ts">`。这已经是 Vue 3 的现代通用标准。
